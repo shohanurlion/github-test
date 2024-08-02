@@ -6,6 +6,7 @@ const MainBanner = () => {
     <>
     <div className="w-full">
         <img src={banner} alt="" />
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda itaque sequi quo, delectus, veritatis, tempore accusantium suscipit fugit blanditiis placeat quibusdam dolorum necessitatibus laudantium alias similique dolorem cum eveniet. Expedita.
     </div>
     </>
   )
