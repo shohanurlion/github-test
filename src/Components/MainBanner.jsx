@@ -1,7 +1,7 @@
 import React from 'react'
 import banner from '../assets/banner.png'
 
-const Banner = () => {
+const MainBanner = () => {
   return (
     <>
     <div className="w-full">
@@ -11,4 +11,4 @@ const Banner = () => {
   )
 }
 
-export default Banner
+export default MainBanner
